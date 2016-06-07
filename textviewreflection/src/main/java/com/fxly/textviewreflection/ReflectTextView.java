@@ -2,6 +2,9 @@ package com.fxly.textviewreflection;
 
 /**
  * Created by Lambert Liu on 2016-06-06.
+ *
+ *
+ *
  */
 import android.content.Context;
 import android.graphics.Bitmap;
